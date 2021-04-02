@@ -23,4 +23,5 @@ figcaption {
 }
 #display div {
   float: left;
+  background-color: red;
 }
